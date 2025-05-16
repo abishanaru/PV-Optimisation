@@ -1,0 +1,12 @@
+# Virtuelle Umgebung
+.venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VS Code Settings
+.vscode/
+
+# Sonstige temporäre Dateien
+__pycache__/
+*.pyc
